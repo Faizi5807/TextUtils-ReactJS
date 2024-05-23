@@ -74,7 +74,7 @@ function App() {
 <Navbar title="TEXTUTILS" mode={mode} changeMode={changeMode} Ymode={Ymode} Rmode={Rmode} Gmode={Gmode}/>
 <Alert alert={alert}/>
 <div className='container'>
-<TextArea Heading="Non Converted Text here:" mode={mode} showAlert={showAlert}/>
+<TextArea Heading="TextUtils-Word Counter,Character Counter,Alter Text" mode={mode} showAlert={showAlert}/>
 </div>
 {/* <About mode={mode}/> */}
 
